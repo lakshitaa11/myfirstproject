@@ -1,0 +1,28 @@
+.cont1{
+    text-align: center;
+    font-family: 'Courier New', monospace;
+    color: peachpuff;
+    background-color:rgb(4, 189, 189);
+    padding: 20px;
+    width: 1200px;
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 50px;
+    font-size: x-large;
+}
+.cont2{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    font-family: Georgia, serif;
+    height: fit-content;
+    width: fit-content;
+    float: inline-end;
+}
+img.cont3{
+    word-spacing: normal;
+}
+body{
+    background-image: url(bg.jpg);
+}
