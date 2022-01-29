@@ -1,4 +1,4 @@
-.cont1{
+/*.cont1{
     text-align: center;
     font-family: 'Courier New', monospace;
     color: peachpuff;
@@ -19,10 +19,24 @@
     height: fit-content;
     width: fit-content;
     float: inline-end;
-}
-img.cont3{
-    word-spacing: normal;
+
 }
 body{
     background-image: url(bg.jpg);
 }
+*/
+h1,h2{
+    text-align: center;
+    text-decoration-color: darkblue;
+    background-color: dimgrey;
+    font-family: Verdana;
+}
+body{
+    background-color: blanchedalmond; 
+    
+}
+.cont1{
+    color: rgb(252, 34, 34);
+    font: 1em sans-serif;
+}
+
